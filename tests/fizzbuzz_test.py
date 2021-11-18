@@ -1,6 +1,7 @@
 import unittest
 from src.fizzbuzz import *
 
+
 class TestFizzbuzz(unittest.TestCase):
 
     def test_fizz_buzz__3_returns_fizz(self):

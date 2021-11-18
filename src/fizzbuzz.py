@@ -15,5 +15,3 @@ def list_sequence(number):
     for i in range(number + 1):
         result.append(fizz_buzz(i))
     return result
-
-    
